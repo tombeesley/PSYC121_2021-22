@@ -10,3 +10,5 @@ link-citations: yes
 github-repo: tombeesley/PSYC121_2022-23
 description: "Course content for PSYC121 at Lancaster University"
 ---
+
+# PSYC121
