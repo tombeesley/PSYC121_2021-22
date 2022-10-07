@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Statistics for Psychologists</title>
+  <meta name="description" content="Course content for PSYC121 at Lancaster University" />
+  <meta name="generator" content="bookdown 0.28 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Statistics for Psychologists" />
+  <meta property="og:type" content="book" />
+  
+  <meta property="og:description" content="Course content for PSYC121 at Lancaster University" />
+  <meta name="github-repo" content="tombeesley/PSYC121_2022-23" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Statistics for Psychologists" />
+  
+  <meta name="twitter:description" content="Course content for PSYC121 at Lancaster University" />
+  
+
+<meta name="author" content="John Towse, Tom Beesley" />
+
+
+<meta name="date" content="2022-10-07" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">PSYC121 - Statistics for Psychologists I</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="01-Week1-PSYC121_22_23.html"><a href="#week-1"><i class="fa fa-check"></i><b>1</b> Week 1</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="01-Week1-PSYC121_22_23.html"><a href="#analysis-labs-and-pre-lab-activity"><i class="fa fa-check"></i><b>1.1</b> Analysis labs and ‘pre-lab’ activity</a></li>
+<li class="chapter" data-level="1.2" data-path="01-Week1-PSYC121_22_23.html"><a href="#activities-for-this-week"><i class="fa fa-check"></i><b>1.2</b> Activities for this week</a></li>
+<li class="chapter" data-level="1.3" data-path="01-Week1-PSYC121_22_23.html"><a href="#task-1---check-in-with-the-university-attendance-register"><i class="fa fa-check"></i><b>1.3</b> Task 1 - check-in with the University attendance register</a></li>
+<li class="chapter" data-level="1.4" data-path="01-Week1-PSYC121_22_23.html"><a href="#task-2---getting-dicy_m"><i class="fa fa-check"></i><b>1.4</b> Task 2 - Getting dicy_m</a></li>
+<li class="chapter" data-level="1.5" data-path="01-Week1-PSYC121_22_23.html"><a href="#task-3---using-rstudio"><i class="fa fa-check"></i><b>1.5</b> Task 3 - Using RStudio</a>
+<ul>
+<li class="chapter" data-level="1.5.1" data-path="01-Week1-PSYC121_22_23.html"><a href="#introducing-r-studio"><i class="fa fa-check"></i><b>1.5.1</b> 3.1 Introducing R Studio</a></li>
+<li class="chapter" data-level="1.5.2" data-path="01-Week1-PSYC121_22_23.html"><a href="#getting_started"><i class="fa fa-check"></i><b>1.5.2</b> 3.2 Getting started with RStudio</a></li>
+<li class="chapter" data-level="1.5.3" data-path="01-Week1-PSYC121_22_23.html"><a href="#what-does-rstudio-look-like"><i class="fa fa-check"></i><b>1.5.3</b> 3.3 What does RStudio look like?</a></li>
+<li class="chapter" data-level="1.5.4" data-path="01-Week1-PSYC121_22_23.html"><a href="#lets-get-started"><i class="fa fa-check"></i><b>1.5.4</b> 3.4 Let’s get started!</a></li>
+<li class="chapter" data-level="1.5.5" data-path="01-Week1-PSYC121_22_23.html"><a href="#before-you-finish"><i class="fa fa-check"></i><b>1.5.5</b> 3.5 Before you finish</a></li>
+<li class="chapter" data-level="1.5.6" data-path="01-Week1-PSYC121_22_23.html"><a href="#extra-content-for-outside-the-lab-class"><i class="fa fa-check"></i><b>1.5.6</b> Extra content for outside the lab class</a></li>
+</ul></li>
+<li class="chapter" data-level="1.6" data-path="01-Week1-PSYC121_22_23.html"><a href="#task-4-review-the-learnr-sample-practice-questions"><i class="fa fa-check"></i><b>1.6</b> Task 4 – Review the learnr sample / practice questions</a></li>
+<li class="chapter" data-level="1.7" data-path="01-Week1-PSYC121_22_23.html"><a href="#task-5-data-collection-exercise"><i class="fa fa-check"></i><b>1.7</b> Task 5 – Data collection exercise</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Statistics for Psychologists</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="header">
+<h1 class="title">Statistics for Psychologists</h1>
+<p class="author"><em>John Towse, Tom Beesley</em></p>
+<p class="date"><em>2022-10-07</em></p>
+</div>
+<div id="week-1" class="section level1 hasAnchor" number="1">
+<h1><span class="header-section-number">1</span> Week 1<a href="#week-1" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="analysis-labs-and-pre-lab-activity" class="section level2 hasAnchor" number="1.1">
+<h2><span class="header-section-number">1.1</span> Analysis labs and ‘pre-lab’ activity<a href="#analysis-labs-and-pre-lab-activity" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>For each lab session that you have been scheduled to attend, please come “prepared’. By this we mean</p>
+<ul>
+<li><p>You have watched the lecture video, made notes, and developed questions where you have them.</p></li>
+<li><p>You have worked through the online “prelab” preparation materials (<a href="https://ma-rconnect.lancs.ac.uk/Week_1_prep">this is the one for week 1</a>)</p></li>
+<li><p>You read the lab sheet (this one) to get a sense of what we’re going to be doing, and you anticipate potential problems so that you can focus on these in the session.</p></li>
+</ul>
+<p>The lecture is designed to deliver important ideas and procedures for learning about analysis. Pre-lab material is then designed to help consolidate this learning, or enhance, expand and apply it in ways that set the scene for the lab session activity.We want to prepare you to be ready to go in the session itself and make the most of your time there.</p>
+<p>Want additional support? Keep in mind that the Department has endorsed and will use the Statistics textbook by David Howell called “<strong>Fundamental statistics for the behavioral sciences”</strong></p>
+<p>The book covers principles of statistics as well as lesson on using. You can access a library copy <a href="https://onesearch.lancaster-university.uk/permalink/f/cssk39/44LAN_ALMA_DS51180136050001221">here</a><br />
+</p>
+</div>
+<div id="activities-for-this-week" class="section level2 hasAnchor" number="1.2">
+<h2><span class="header-section-number">1.2</span> Activities for this week<a href="#activities-for-this-week" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</div>
+<div id="task-1---check-in-with-the-university-attendance-register" class="section level2 hasAnchor" number="1.3">
+<h2><span class="header-section-number">1.3</span> Task 1 - check-in with the University attendance register<a href="#task-1---check-in-with-the-university-attendance-register" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>When you arrive, mke sure you have checked-in to your Analysis session in the Levy lab. All students are required by the University to confirm attendance at taught sessions. <a href="https://www.lancaster.ac.uk/student-and-education-services/check-in/">Here’s information from the University about how to do this</a>.</p>
+<p>Staff will remind you of this in your class.</p>
+</div>
+<div id="task-2---getting-dicy_m" class="section level2 hasAnchor" number="1.4">
+<h2><span class="header-section-number">1.4</span> Task 2 - Getting dicy_m<a href="#task-2---getting-dicy_m" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><img src="files/Week_1/dice.png" style="width:3in" /></p>
+<p>Here’s a simple task for you to complete as a group around each of the workstations;</p>
+<p>You will be given a pair of dice</p>
+<ol style="list-style-type: decimal">
+<li><p>Working in pairs, one person rolls both dice.</p></li>
+<li><p>Add up the total on each of them and have someone record that total (if you don’t have some spare paper or a pen, use your computer)</p></li>
+<li><p>Repeat those steps 20 times.</p></li>
+<li><p>Then swap over your roles (the person rolling the dice, the person recording the outcome)</p></li>
+<li><p>Once everyone at the workstation has had a turn at this, each person should attempt to work out (a) the mean and (b) the median of their dice roll total.</p></li>
+<li><p>Check each others working, and discuss any differences or problems you have.</p></li>
+</ol>
+<p>Are all your answers the same? Why / why not? If not, are they very different or very similar?</p>
+</div>
+<div id="task-3---using-rstudio" class="section level2 hasAnchor" number="1.5">
+<h2><span class="header-section-number">1.5</span> Task 3 - Using RStudio<a href="#task-3---using-rstudio" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="introducing-r-studio" class="section level3 hasAnchor" number="1.5.1">
+<h3><span class="header-section-number">1.5.1</span> 3.1 Introducing R Studio<a href="#introducing-r-studio" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>R and RStudio is the software that we will be using to explore and learn about analysis in your Psychology degree. It’s a computational engine: a very snazzy calculator that you should see as your friend and ally in the journey to understand and appreciate psychology. It sits <em>alongside</em> what we teach about the concepts and interpretation of statistical analysis.</p>
+<p>R is the core software, RStudio is the interface for interacting with it. Put another way, *R is the engine, RStudio is the cockpit.*</p>
+<p>Like even a simplest calculator, it just does what you ask (at least when you ask nicely!) but it requires the user to know what they want from it and to understand what it is telling you. A calculator can’t help a kid get the right answer to a multiplication problem if they don’t know the difference between multiplication and division and addition etc. And whilst a calculator is brilliant at doing the number crunching (and as a bonus, R Studio can help with turning the numbers into beautiful graphs and images too), even a calculator requires a thoughtful person to take the answers and make sensible interpretations from them.</p>
+<p>Therefore, we need to learn both about the concepts of statistical analysis on the one hand, and the processing of statistical information -through R- on the other. The lectures will provide the starting pointmand the direction for statistical concepts, whilst these analysis labs provide the more practical experiences in how to use R, and how to R your ally. Over the next year, in these labs we will increasingly be using RStudio to focus on the latter, processing side, which will allow you to focus your energies on the conceptual side and its relevance for appreciating psychology.</p>
+</div>
+<div id="getting_started" class="section level3 hasAnchor" number="1.5.2">
+<h3><span class="header-section-number">1.5.2</span> 3.2 Getting started with RStudio<a href="#getting_started" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>For Lancaster University Psychology Students in 2022, we will be learning about R Studio through a simple but powerful web server architecture. That is, through the power of the internet, you can access and use R Studio by logging into a free account that we have provided and we will maintain for your use.</p>
+<blockquote>
+<p>Here’s a little secret: There are several different ways to access RStudio. For example, you can download a copy of the software onto your computer, or use a Virtual Machine set up to run a copy. There’s nothing to stop you having your local copy, but please note - we can’t support your own version through lab classes. We’re using the web server to make sure everyone has the same, controlled experience.</p>
+</blockquote>
+<p>You will have received an email with your account information to log onto From a computer on the campus wifi, you can access R Studio at:</p>
+<p><a href="http://psy-rstudio.lancaster.ac.uk" title="Lancaster Psychology R Studio Server">Lancaster Psychology R Studio Server</a></p>
+<p>At the login screen, use your university username (e.g., bloggsj)</p>
+<p>Your password for R Studio is: [password here]</p>
+<p>As it says in the subject line, please keep your account details safe!</p>
+</div>
+<div id="what-does-rstudio-look-like" class="section level3 hasAnchor" number="1.5.3">
+<h3><span class="header-section-number">1.5.3</span> 3.3 What does RStudio look like?<a href="#what-does-rstudio-look-like" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>When RStudio starts, it will look something like this: <img src="files/Week_1/RStudio_starup_screen.png" alt="Startup screen" /></p>
+<p>RStudio has three panels or windows: there are tabs for Console (taking up the left hand side), Environment (and History top right) , Current file (bottom right). You will also see a 4th window for a script or set of commands you develop, also (on the left hand side).</p>
+</div>
+<div id="lets-get-started" class="section level3 hasAnchor" number="1.5.4">
+<h3><span class="header-section-number">1.5.4</span> 3.4 Let’s get started!<a href="#lets-get-started" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>The first thing we want to do in RStudio is to create a folder for this week so that we can put the relevant material there and keep it tidy.</p>
+<p>From the lower-right panel of RStudio, click the files tab.</p>
+<p>Select the “new folder” option and create a new folder (eg “week 1”)</p>
+<p>Click on that folder to open it</p>
+<p>Next, we’ve prepared some <em>instructions</em> for RStudio to use - this is called a “script”. So we need to get this script into the server for you to explore and play with</p>
+<ol style="list-style-type: decimal">
+<li><p>Download the “zip” file by <a href="files/Week_1/week_1.zip">clicking this link</a></p></li>
+<li><p>Find the location of the file on your computer and check it is saved as a “.zip” file</p></li>
+<li><p>Return to RStudio</p></li>
+<li><p>Click “Upload”</p></li>
+<li><p>Click choose file and find the file on your computer.</p></li>
+<li><p>Select the file and click “Open”. Click “OK”</p></li>
+</ol>
+<p>You should now see the files extracted in the directory. If you receive an “unexpected server error” please try this process in a different browser. If you still have trouble, send your username to us <a href="mailto:t.beesley@lancaster.ac.uk">t.beesley@lancaster.ac.uk</a> for support.</p>
+<p>You should now have the script available in RStudio.</p>
+<p>Use “Save…As” to create a new version of the script. By doing this, you’ll be abe to have a “before” and “after” version of the script and can go back over the changes</p>
+<p>In the script, select or highlight the first line of text, which is this one:</p>
+<div id="run-your-first-ever-r-instruction" class="section level4 hasAnchor" number="1.5.4.1">
+<h4><span class="header-section-number">1.5.4.1</span> 3.4.1 Run your first ever R instruction!<a href="#run-your-first-ever-r-instruction" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">5</span> <span class="sc">+</span> <span class="dv">5</span></span></code></pre></div>
+<p>and “run” this line. That tells RStudio to carry out the instruction.</p>
+<p>You should see that in thw console tab, RStudio calculates the answer to this incredibly hard maths challenge! (amazing huh? OK, maybe not *that* amazing…).</p>
+</div>
+<div id="modify-your-first-ever-r-instruction" class="section level4 hasAnchor" number="1.5.4.2">
+<h4><span class="header-section-number">1.5.4.2</span> 3.4.2 Modify your first ever R instruction!<a href="#modify-your-first-ever-r-instruction" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>Use your imagination – add a new line to the script and ask a different simple arithmetic question of your own choosing! What happens?</p>
+</div>
+<div id="calculate-descriptive-stats-in-r-for-the-first-time" class="section level4 hasAnchor" number="1.5.4.3">
+<h4><span class="header-section-number">1.5.4.3</span> 3.4.3 Calculate descriptive stats in R for the first time!<a href="#calculate-descriptive-stats-in-r-for-the-first-time" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>In this week’s analysis lecture, we looked at measures of central tendency and how to calculate them. So let’s get R to do these calculations also!</p>
+<p>First, we tell R about the data used in the lecture. We’ve already created the instruction that will do exacly this and it is in the script, so run this line from the script</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>week_1_lecture_data <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">7</span>,<span class="dv">8</span>,<span class="dv">8</span>,<span class="dv">7</span>,<span class="dv">3</span>,<span class="dv">1</span>,<span class="dv">6</span>,<span class="dv">9</span>,<span class="dv">3</span>,<span class="dv">8</span>)</span></code></pre></div>
+<p>This creates an “object” called <code>week_1_lecture_data</code>. We can then perform calculations on this object. For example, we can find the mean by running the following command (use the script to do this)</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">mean</span>(week_1_lecture_data)</span></code></pre></div>
+<p>Check the answer is the same we found in the lecture (it should be 6!).</p>
+<p>Next, let’s ask for the median by running this line from the script:</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">median</span>(week_1_lecture_data)</span></code></pre></div>
+<p>This also should be the answer from the lecture (7)</p>
+<p>R doesn’t have a single corresponding command for the <em>mode</em>, but we can use the block of code in the script for this that starts and ends with the “getmode” text (there are 6 lines of text)</p>
+<p>This is just a bit of clever jiggery-pokery that gets the mode. What does R say the mode is?</p>
+</div>
+<div id="your-challenge" class="section level4 hasAnchor" number="1.5.4.4">
+<h4><span class="header-section-number">1.5.4.4</span> 3.4.3 Your challenge<a href="#your-challenge" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>How can you get RStudio to verify / check the dice calculations that you attempted earlier? Think about how you might solve this problem, on the basis of what we have covered so far.</p>
+<p>We will discuss this in class and attempt to get RStudio to check your answers. In doing so, annotate the script (add notes for you - not RStudio) using the “#” command</p>
+</div>
+</div>
+<div id="before-you-finish" class="section level3 hasAnchor" number="1.5.5">
+<h3><span class="header-section-number">1.5.5</span> 3.5 Before you finish<a href="#before-you-finish" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Make sure you save a copy of the script that you have been working work by the end of the session. This provides you with the record - the digital trace - on what you have done. And it means you can come back and repeat any of the work you have performed.</p>
+</div>
+<div id="extra-content-for-outside-the-lab-class" class="section level3 hasAnchor" number="1.5.6">
+<h3><span class="header-section-number">1.5.6</span> Extra content for outside the lab class<a href="#extra-content-for-outside-the-lab-class" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>In the Howell text book on statistics, there’s some R code on descriptive statistics. It is included in the script for you to look at and play with.</p>
+<p>in your own time and think about the following:</p>
+<p>In R, “&lt;-” is the assignment operator as in the command we used:</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>PSYC121_week_1_data <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">7</span>,<span class="dv">8</span>,<span class="dv">8</span>,<span class="dv">7</span>,<span class="dv">3</span>,<span class="dv">1</span>,<span class="dv">6</span>,<span class="dv">9</span>,<span class="dv">3</span>,<span class="dv">8</span>)</span></code></pre></div>
+<p>We create the variable label on the left (<code>Analysis_week1_data</code>) and we give it those numbers on the right. The name <code>Analysis_week1_data</code> is largely arbitrary: try use a variable of your own naming (your own name?) instead - and then use that alternative name for the other commands.</p>
+<hr />
+<p>Throughout this year, we’ll use the convention of the “underscore” to separate words in labels (it_makes_them_easier_to_read than ifyoudidn’thaveanyspaces)</p>
+<hr />
+</div>
+</div>
+<div id="task-4-review-the-learnr-sample-practice-questions" class="section level2 hasAnchor" number="1.6">
+<h2><span class="header-section-number">1.6</span> Task 4 – Review the learnr sample / practice questions<a href="#task-4-review-the-learnr-sample-practice-questions" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>After every block of teaching in part-1 analysis (specifically, we mean in week 5, week 10, week 15 and week 20) there will be a class test. This will assess your knowledge and your understanding of the material that has been covered.</p>
+<p>The class test will comprise a set of Multiple Choice Questions (and the set of questions will be different for each student, as the test will involve random selection from a larger pool) under timed conditions.</p>
+<p>in order to help you get (a) get a broad or basic feel for the sort of questions you might get in the class test (b) self-review your progress through the term, we will provide MCQs each week for you to attempt.</p>
+<p>So these are for your benefit… you can take the questions when you choose to, and the learnr quiz will provide feedback on the answers your provide. Just bear in mind</p>
+<ol style="list-style-type: lower-alpha">
+<li><p>We place a set of questions at the end of the learnr pages so that you can attempt these at the end of each week, after you’ve completed lab activities, follow-up work, weekly Q&amp;As etc. But it’s up to you when you answer the questions</p></li>
+<li><p>These are meant as <em>indicative questions</em>. There’s no point in learning/ memorising these questions (they won’t be on the quiz!) and our advice is to reflect on how the teaching and content links to the sorts of questions that get posed.</p></li>
+</ol>
+</div>
+<div id="task-5-data-collection-exercise" class="section level2 hasAnchor" number="1.7">
+<h2><span class="header-section-number">1.7</span> Task 5 – Data collection exercise<a href="#task-5-data-collection-exercise" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>In order to learn about psychology and data analysis techniques, we need data! Rather than rely too much on artificial data (certainly it is sometimes useful to say “Here are a bunch of numbers and this is what we can do with them” – think about the R Studio example for this week’s lab) for the most part, we prefer to draw on datasets that are a bit more engaging and meaningful that you have a stake in yourself! By using a common data set, that we can return to over the year, we can also build up familiarity and confidence in the data and remove a potential obstacle to thinking about the more important analysis part.</p>
+<p>So a key task will be for everyone to have a go at taking our online survey, and contribute to a dataset that can be used throughout the year.</p>
+<p>We would like you to complete the survey via your Department Sona system account. This way, you will receive a research credit for doing so, to “jump start” your credit account.</p>
+<p>The sona system is can be accessed <a href="https://lancs.sona-systems.com">at this link</a>.</p>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
