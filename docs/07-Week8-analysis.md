@@ -7,7 +7,7 @@ output:
 
 
 
-# Week 8: Plotting means, SEs and related-samples t-tests
+# Week 8: Related-samples t-tests, plotting means and SE bars
 
 > Written by Tom Beesley & John Towse
 
@@ -23,7 +23,7 @@ Today we will take a look at summarising means and standard errors (SEs) from ou
 
 2. Download the [Week_8.zip](files/Week_8/Week_8_new.zip) file and upload it into this new folder in RStudio Server. If you need them, [here are the instructions](#uploading_zip) from Week 2.
 
-## RStudio Task 1: Calculating means and SEs 
+## Calculating means and SEs 
 
 The “Stroop Effect” is a classic demonstration of automaticity of behaviour. Participants have to say the colour a word is printed in, which is an easy task for a “compatible” stimulus like <span style="color:green">**GREEN**</span>, and a much more difficult task for an “incompatible” stimulus like <span style="color:red">**BLUE**</span>. We can’t help but read the text - it has seemingly become an automatic process.
 
@@ -45,7 +45,7 @@ ggplot().
 
 7. We now need the filter out the values in our data that we feel are unusual. Like last week, we will do this in a fairly unprincipled manner, by "eyeballing" the data (next week we'll consider something a bit more "scientific"). Complete the filter command so that it removes both the very low values in the *avg_time* column, and also those that are very high. Because you want to filter out low AND high values, you are using an **AND** expression (**&**). You will therefore need to enter in two numerical values, based on your assessment of the histogram produced for Q6. Note that the filtered data is stored as a new object: *data_w8_f* ("f", for "filtered").
 
-## RStudio Task 2: Running related samples t-tests
+## Running related samples t-tests
 
 We have seen in our density plots that the reaction times (DV) look different in the three different Stroop conditions (our IV). But now we need to look at whether there are **statistically significant differences** between the means of the three conditions. 
 
@@ -62,7 +62,7 @@ result significant? Note the t-value and the p-value. How would you express this
 
 5. With 3 levels to the IV *condition* there are 3 possible comparisons we can make (1 vs. 2; 1 vs. 3; 2 vs. 3). Complete all three tests, by copying and pasting the commands, editing each to make a different filter selection, and then to run the t-test. Make sure you interpret the results of the t-tests. 
 
-## RStudio Task 3: Plotting the means and SEs
+## Plotting the means and SEs
 
 1. In Task 2 you calculated the means for each condition in the Stroop task. We've seen in lectures that "standard error" provides an estimate of how variable that mean will be across the samples we collect. In the online tutorial you were shown the code for creating the SE. Complete the code to add in the relevant variables to calculate both means and SEs. The code from Task 2-Q1 will give the mean; you simply need to add the correct variable (DV) to the `sd()` command to calculate the SE values (note that you don't need to put anything in `n()`, as this simply calculates how many rows there are).
 
@@ -95,3 +95,9 @@ EXTRA: These next steps can be completed to practice customising your plot
 **Data:** The data objects you create (in the Environment) will be saved automatically if you have created a project. However, this data only exists within RStudio. What if you want to use the data elsewhere? For example you may want to share the data with a project supervisor. To do this, we need to write the data to a csv file (like those we use to import the data). You can do this with the following command: `write_csv(the_data_object, "the_filename.csv")` 
 
 **Exporting from RStudio:** The above save operations save files to a folder within RStudio Server. At some stage you will need to get these files out of RStudio Server, for example if you need a graph for your report, or you need to share the data or the scripts. To do this, simply select the files you want in the Files pane, click "More" and then "Export". Selecting multiple files will produce a ".zip" file, which will need to be "unzipped" on your computer to access the individual files ([instructions for Windows](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc){target="_blank"} and [instructions for Mac](https://support.apple.com/en-gb/guide/mac-help/mchlp2528/mac){target="_blank"})
+
+## Answers
+
+When you have completed all of the lab content, you may want to check your answers with our completed version of the script for this week. **Remember**, looking at this script (studying/revising it) does not replace the process of working through the lab activities, trying them out for yourself, getting stuck, asking questions, finding solutions, adding your own comments, etc. **Actively engaging** with the material is the way to learn these analysis skills, not by looking at someone else's completed code...
+
+Download the [answers script](files/Week_8/Week_8_script_answers.R) 

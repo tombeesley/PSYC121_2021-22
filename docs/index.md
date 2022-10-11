@@ -1,7 +1,11 @@
 ---
 title: "Statistics for Psychologists"
 author: "John Towse, Tom Beesley, Margriet Groen, Rob Davies"
+<<<<<<< HEAD
 date: "2022-10-11"
+=======
+date: "2022-10-07"
+>>>>>>> 74f581ce4eaa476c8ad08ec7f38e91ea4aa9513b
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -59,11 +63,10 @@ Moodle plays a key role in your time at Lancaster. Moodle is the University VLE 
 
 In your full online Part I handbook you can read about the Research Participation Scheme (run through the SONA system). This scheme offers students the opportunity to take part in research studies. The studies cover a range of research topics and are interesting to take part in. They provide an invaluable learning opportunity for students in terms of how to design experiments, how to treat participants in an ethical manner and how to run an experiment. Many research studies in the first term will be carried out by final-year undergraduates collecting data for their research projects. This may well be you in a couple of years time!
 
- Psychology students registered on PSYC121 are strongly encouraged to take part in these studies and collect a minimum of 20 credits\* [\* this is an estimate at the time of writing - the target will be communicated when confirmed within the department]. There are multiple incentives.
+ Psychology students registered on PSYC121 are strongly encouraged to take part in these studies and collect a minimum of 20 credits\* [\* this is an estimate at the time of writing - the target will be communicated when confirmed within the department]. There are multiple incentives.
 
 First, completion of these credits is an essential pre-requisite to use the SONA system to recruit participants to your own study when you enter your third year. (nb you are required to carry out your own research project as part of your Psychology degree). This benefit of this access should NOT be underestimated.
 
 Second, once you have collected 20 credits, you will be able to collect additional credits, and earn further project credits for yourself in the third year. But also, taking part in studies, run by other undergraduates, or postgraduates or Research Assistants or staff, is a fantastic way to learn about research methods and experimental designs and psychology in general. Time and again, many students tell us that they got great ideas for projects and for good experiments from their experiences as participants. Being a research participant provides unique insights into what goes on in experiments and what we can learn from them.
 
 You will receive more information about SONA -- such as how to register to gain access to studies -- in the next couple of weeks.
-

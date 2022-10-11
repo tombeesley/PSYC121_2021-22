@@ -67,13 +67,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-ce498cfb59b2.js"></script>
   
 
-  <title>PSYC121_2021-22/Week_2.zip at ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4 · tombeesley/PSYC121_2021-22</title>
+  <title>PSYC121_2021-22/Week_6_script_answers.R at ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4 · tombeesley/PSYC121_2021-22</title>
 
 
 
     
 
-  <meta name="request-id" content="D207:0AB3:11ACBB9:120E012:63404CF7" data-turbo-transient="true" /><meta name="html-safe-nonce" content="6ebae55b952fa521e9c994eec936da26b4b9f37c05002251b5fce3dcb5785899" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS90b21iZWVzbGV5L1BTWUMxMjFfMjAyMS0yMi90cmVlL2ZmMTVkZmVkMDZiODQzMzU4M2RlZTBjZjZhNmQ2ZDRkYzQ3Y2RhZDQvZmlsZXMvV2Vla18yIiwicmVxdWVzdF9pZCI6IkQyMDc6MEFCMzoxMUFDQkI5OjEyMEUwMTI6NjM0MDRDRjciLCJ2aXNpdG9yX2lkIjoiODA4NDE2MTE1MTg0MzMyMTgyMCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="4eb0e8920b483c004207ea5877de5968651a20c80b40f86d15bf460c5c91b02d" data-turbo-transient="true" />
+  <meta name="request-id" content="D207:0AB3:123F8EC:12A324E:63404DFD" data-turbo-transient="true" /><meta name="html-safe-nonce" content="6ebae55b952fa521e9c994eec936da26b4b9f37c05002251b5fce3dcb5785899" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS90b21iZWVzbGV5L1BTWUMxMjFfMjAyMS0yMi90cmVlL2ZmMTVkZmVkMDZiODQzMzU4M2RlZTBjZjZhNmQ2ZDRkYzQ3Y2RhZDQvZG9jcy9maWxlcy9XZWVrXzYiLCJyZXF1ZXN0X2lkIjoiRDIwNzowQUIzOjEyM0Y4RUM6MTJBMzI0RTo2MzQwNERGRCIsInZpc2l0b3JfaWQiOiI4MDg0MTYxMTUxODQzMzIxODIwIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="fa4cddd554a4a1ff9c8ff65f2fd3fb71ba110bb684e90503879bdc80fae25882" data-turbo-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:423404244" data-turbo-transient>
 
@@ -111,11 +111,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/f66f2547f429b27a2c6f9f4398d434d84b40ea2c298f77a63674c439ca399878/tombeesley/PSYC121_2021-22" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="PSYC121_2021-22/Week_2.zip at ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4 · tombeesley/PSYC121_2021-22" /><meta name="twitter:description" content="Contribute to tombeesley/PSYC121_2021-22 development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/f66f2547f429b27a2c6f9f4398d434d84b40ea2c298f77a63674c439ca399878/tombeesley/PSYC121_2021-22" /><meta property="og:image:alt" content="Contribute to tombeesley/PSYC121_2021-22 development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="PSYC121_2021-22/Week_2.zip at ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4 · tombeesley/PSYC121_2021-22" /><meta property="og:url" content="https://github.com/tombeesley/PSYC121_2021-22" /><meta property="og:description" content="Contribute to tombeesley/PSYC121_2021-22 development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/f66f2547f429b27a2c6f9f4398d434d84b40ea2c298f77a63674c439ca399878/tombeesley/PSYC121_2021-22" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="PSYC121_2021-22/Week_6_script_answers.R at ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4 · tombeesley/PSYC121_2021-22" /><meta name="twitter:description" content="Contribute to tombeesley/PSYC121_2021-22 development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/f66f2547f429b27a2c6f9f4398d434d84b40ea2c298f77a63674c439ca399878/tombeesley/PSYC121_2021-22" /><meta property="og:image:alt" content="Contribute to tombeesley/PSYC121_2021-22 development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="PSYC121_2021-22/Week_6_script_answers.R at ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4 · tombeesley/PSYC121_2021-22" /><meta property="og:url" content="https://github.com/tombeesley/PSYC121_2021-22" /><meta property="og:description" content="Contribute to tombeesley/PSYC121_2021-22 development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/16871255/ws?session=eyJ2IjoiVjMiLCJ1IjoxNjg3MTI1NSwicyI6OTUwNzQ0NTkxLCJjIjo1NjcxMzMwOTYsInQiOjE2NjUxNTg0MTR9--8fb579e045c8063e08b40a3fcaf09327b1d0b557bf8ed05a8bb22dc8ac034d1a" data-refresh-url="/_alive" data-session-id="17b74d16daf713a780faafda0db5518343799ce9f8255f251895e3b29ff2abe6">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/16871255/ws?session=eyJ2IjoiVjMiLCJ1IjoxNjg3MTI1NSwicyI6OTUwNzQ0NTkxLCJjIjo0NDUxMDg3NzgsInQiOjE2NjUxNTg2NTl9--f0eba8dc937fb4281510ec8212a4b782788e0c9663c2d2272ddf5ae956404703" data-refresh-url="/_alive" data-session-id="17b74d16daf713a780faafda0db5518343799ce9f8255f251895e3b29ff2abe6">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -145,7 +145,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -236,7 +236,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="AbTehOPZB7iaHSp660w7GQ7roU3anOVhEowumr8yn2aoABhE1EExrBLsVSKEOGS1dwUafH5N3CGYMCawRHGNOQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="mabwJ_hMobxd_G5eerofPAS1rPMdRrBDpSx5ECTafzswEjbnz9SXqNUNEQYVzkCQfVsXwrmXiQMvkHE635ltZA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -435,7 +435,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;tombeesley&quot;,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="4d6bacc22403c68a69a326012d5b97e890dce2692bbc3e88df48c7e19f5f74e0" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;tombeesley&quot;,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="629f468b593107a1d07e49cee3f5814b0dc1f760a9dedb7370a2c95173d65583" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -443,7 +443,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/16871255?s=40&amp;v=4" width="20" height="20" alt="@tombeesley" />
       tombeesley
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zFsvaiSyL3KPDa6g0zHb2jwoQ9GV0zxOqxMeb8CtcQs-J2Vo46ZbmjEVW4ufxYD6-7pVgc-NQIY14fdqPsyhIQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gerukBm5AmmhPAvPMcXwoAzg2GBdJNr_W0ntg4HVG6dzlqSS3q12gR8k_uR9MauAy3LOMAd6pjfFuwSGf7TLjQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -478,7 +478,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTY4NzEyNTUiLCJ0IjoxNjY1MTU4NDE0fQ==--92c36d0c301da9ca8aec99256bfdf0159257679226afcd51b85ec3a0274fbf20" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTY4NzEyNTUiLCJ0IjoxNjY1MTU4NjU5fQ==--e6da924d3d51144679588fcb642884941fb022cf0a7e81ac789901d0af27925f" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -631,7 +631,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip
+      return-to=/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R
       user-id="16871255"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1586,7 +1586,7 @@
 
       <li>
   <div class="float-left" data-test-selector="pin-repo-button">
-    <form data-turbo="false" action="/tombeesley/PSYC121_2021-22/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SSw-6uJVqeet6OHCJcuF9eiCOIVk0Q-2N7hmPFPGVuJxZ-XQpYrmXLNTVFNNNc22bVx1RMjdjr3mTyRhW1N10w" autocomplete="off" />
+    <form data-turbo="false" action="/tombeesley/PSYC121_2021-22/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Y0GRIiprURNnGJGXsRYA6KyDxy-tnC0vtRfOtsYVr7lbCkoYbbQeqHmjJAbZ6EirKV2K7gGQrCRk4IzrzoCMiA" autocomplete="off" />
         <button title="Pin this repository to your profile" type="submit" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pin mr-2">
     <path fill-rule="evenodd" d="M4.456.734a1.75 1.75 0 012.826.504l.613 1.327a3.081 3.081 0 002.084 1.707l2.454.584c1.332.317 1.8 1.972.832 2.94L11.06 10l3.72 3.72a.75.75 0 11-1.061 1.06L10 11.06l-2.204 2.205c-.968.968-2.623.5-2.94-.832l-.584-2.454a3.081 3.081 0 00-1.707-2.084l-1.327-.613a1.75 1.75 0 01-.504-2.826L4.456.734zM5.92 1.866a.25.25 0 00-.404-.072L1.794 5.516a.25.25 0 00.072.404l1.328.613A4.582 4.582 0 015.73 9.63l.584 2.454a.25.25 0 00.42.12l5.47-5.47a.25.25 0 00-.12-.42L9.63 5.73a4.581 4.581 0 01-3.098-2.537L5.92 1.866z"></path>
 </svg>Pin
@@ -1605,7 +1605,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="020174428458a75b2b41de81f2f7756c712bb0b721d561212d2526e1319b4d43" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="9082d5caf6b6cbc563b651f0f3eb85dc7cb10a3b2246711cc66945f648662113" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               
               
@@ -1657,7 +1657,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TBZi-omAfxgfh0JKRVgUQTFbNBXyoM_XXkBKmcMopy3-avu5X90vtXxYtGcKbR_I0kDGsIfcOOnaCYa2jJAnlQ" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JY8eBjxkTAnPbPcEnIKIvwmL7IVtBAst2aCwX1YLWJ-X84dF6jkcpKyzASnTt4M26pAeIBh4_BNd6XxwGbPYJw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="423404244">
 
@@ -1785,7 +1785,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TXT2Hy2KRX0nddUmud_abKS5QIVAaGhSRhkkQQEwMpj_CG9c-9cV0ESqIwv26tHlR6KyIDUUn2zCUOhuToiyIA" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FlTkwGfDeuOZvsPBc9kYQmKmRtJhTEimA2oqwGs8iDekKH2DsZ4qTvphNew87BPLgb20dxQwv5iHI-bvJIQIjw" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="423404244">
 
@@ -1936,7 +1936,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/tombeesley/PSYC121_2021-22/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="bcdd97ee6cbb24cd87c496d8c6bf28ce9263a52a5b4b72309f89693661dbff41" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of tombeesley/PSYC121_2021-22" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/tombeesley/PSYC121_2021-22/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="0f6a054893144d36075ab877537b8d19ac1025edbec9fe0e3eebae81da4ee416" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of tombeesley/PSYC121_2021-22" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1954,13 +1954,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b7e0c6">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-538335">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b7e0c6"
+        id="filter-menu-538335"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2001,18 +2001,18 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/tombeesley/PSYC121_2021-22/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4Q2KqH_cAySn6h-Izwng03JzjqO_wQ_1hGw4jCgiFABZnhu9W-2HHwN2KMrHkTIHFcbMHluUIsNkh_HUea0v_g" autocomplete="off" />
-        <input type="hidden" value="VYIZLWxuyOGwVt2Lr2CqRkiLWV_UIvImRXJ6rOfdiQ7tEYg4SF9M2hTK6smn-HiSLz4b4jB33xClmbP0tlKy8A" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/tombeesley/PSYC121_2021-22/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EwKbh75ywDMwVePWqRrPKymoywj0fbXub8IUs_RK4d6rkQqSmkNECJTJ1JShgh3_Th2JtRAomNiPKd3rpcXaIA" autocomplete="off" />
+        <input type="hidden" value="LEvnPPidpNqABnC9T1lY7mTxSS3ZvU0Zoh_vPhEEQheU2HYp3Kwg4SSaR_9HwYo6A0QLkD3oYC9C9CZmQIt56Q" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="1da7687bd9e9d5513a24609976dc0c3b6adac4e85c7fb083f13c74286008d9d4" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="2ccf939962ae94f973b745614c135ee8b9c343c174d3087973aac9b7cbbfd3fc" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/tombeesley/PSYC121_2021-22/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kuWfqsZh10SJxgyWCzQK-papPC_-zTqLX1j93dVUnB6uHknC5VndLFYax-H-mMdcDASZVO3xV1_aQa05LmwxGA" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/tombeesley/PSYC121_2021-22/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="e1gLDI5rxi8wUh77azzO3CpmhJbvGDrsb9jyXbiReyNHo91krVPMR--O1YyekAN6sMsh7fwkVzjqwaK5Q6nWJQ" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="c2fce69744fa02a3b7b8691fbe17c883351ff85017e70db47ac6e5c67973af59" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="45c57f5ec239d22b1094911d3e0027314d10c937b13c2d3b2d3daf31f0df5f4c" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -2030,13 +2030,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2f711d">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2d8de0">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-2f711d"
+        id="filter-menu-2d8de0"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2260,7 +2260,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2268,7 +2268,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="477ee290726c19279eba0ec6575edccb6a3e6d33fdd912578be18a42e2930616">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="bd6ac145be4c12e8b2ada181eee18f11da43739fcc60b9f3dc4d5000b7a370c3">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2333,17 +2333,17 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/tombeesley/PSYC121_2021-22/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kIxT-su23mgSqqNSnbQ6LKm6yniJ1CF_gs8_fADohMvfjaQTZMrK2Z00saQn7P0ubh9rm9EKR-7-qpC4HjZWZg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/tombeesley/PSYC121_2021-22/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3w2msxBShI-o7FETE59ZUpbRcLlGjWAkhL4iEin3Xc2QDFFavy6QPidyQ-Wpx55QUXTRWh5TBrX4243WNymPYA" />
       <input type="hidden" name="name" value="{{ refName }}">
       <input type="hidden" name="branch"  value="ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4">
-      <input type="hidden" name="path_binary" value="ZmlsZXMvV2Vla18yL1dlZWtfMi56aXA=">
+      <input type="hidden" name="path_binary" value="ZG9jcy9maWxlcy9XZWVrXzYvV2Vla182X3NjcmlwdF9hbnN3ZXJzLlI=">
 
       <button
         class="SelectMenu-item wb-break-word"
         type="submit"
         role="menuitem"
         data-index="{{ index }}"
-        data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:423404244,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="35fdf5a7cf34f55cba7ed7d7b590d217a2992e6cd7c6c6bbb77534de65bf52b8">
+        data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:423404244,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="4d80d9b26b64c1f26575b87126a9d2a17f8d5960126d72c7014d8181c6c9fbdf">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
@@ -2365,7 +2365,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/tombeesley/PSYC121_2021-22/blob/{{ urlEncodedRefName }}/files/Week_2/Week_2.zip" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/tombeesley/PSYC121_2021-22/blob/{{ urlEncodedRefName }}/docs/files/Week_6/Week_6_script_answers.R" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2405,7 +2405,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/tombeesley/PSYC121_2021-22/blob/{{ urlEncodedRefName }}/files/Week_2/Week_2.zip" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/tombeesley/PSYC121_2021-22/blob/{{ urlEncodedRefName }}/docs/files/Week_6/Week_6_script_answers.R" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2436,7 +2436,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/tombeesley/PSYC121_2021-22/tree/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4"><span>PSYC121_2021-22</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/tombeesley/PSYC121_2021-22/tree/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files"><span>files</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/tombeesley/PSYC121_2021-22/tree/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2"><span>Week_2</span></a></span><span class="separator">/</span><strong class="final-path">Week_2.zip</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/tombeesley/PSYC121_2021-22/tree/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4"><span>PSYC121_2021-22</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/tombeesley/PSYC121_2021-22/tree/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs"><span>docs</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/tombeesley/PSYC121_2021-22/tree/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files"><span>files</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/tombeesley/PSYC121_2021-22/tree/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6"><span>Week_6</span></a></span><span class="separator">/</span><strong class="final-path">Week_6_script_answers.R</strong>
   </h2>
     <a href="/tombeesley/PSYC121_2021-22/find/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2447,7 +2447,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="4f495400724a25666c343a0e493450886a7316f9be7e43b30865be872d44c9a5" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/tombeesley/PSYC121_2021-22/find/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="e7c4e3c92a2b98829e6e44b07a398a80ab082b81f320aa40780d4a1b71454f39" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/tombeesley/PSYC121_2021-22/find/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2459,13 +2459,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="files/Week_2/Week_2.zip" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="docs/files/Week_6/Week_6_script_answers.R" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2497,7 +2497,7 @@
     <include-fragment src="/tombeesley/PSYC121_2021-22/spoofed_commit_check/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/tombeesley/PSYC121_2021-22/contributors/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip" class="commit-loader">
+  <include-fragment src="/tombeesley/PSYC121_2021-22/contributors/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2531,23 +2531,84 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-    813 Bytes
+      45 lines (34 sloc)
+      <span class="file-info-divider"></span>
+    1.59 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a href="/tombeesley/PSYC121_2021-22/raw/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">    Download
+        <a href="/tombeesley/PSYC121_2021-22/raw/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">    Raw
+</a>          <a href="/tombeesley/PSYC121_2021-22/blame/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Ftombeesley%2FPSYC121_2021-22%2Fblob%2Fff15dfed06b8433583dee0cf6a6d6d4dc47cdad4%2Ffiles%2FWeek_2%2FWeek_2.zip" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
-            aria-label="You must be on a branch to make or propose changes to this file">
+        
+<div class="ml-1" data-test-selector="edit-dropdown-menu-component">
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/tombeesley/PSYC121_2021-22/edit/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5-RsbBy-oCtneXrl--qPxWaeW_geWgoLqjqJ2IU1JhPXYf_LrYuoiFbcu9R8yNaBP7l9jaaGFX-iP-VZ9wld9g" autocomplete="off" />
+      <button disabled="disabled" title="You must be on a branch to make or propose changes to this file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
+    <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
+</svg>
+</button></form>
+  <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:423404244,&quot;actor_id&quot;:16871255,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+</summary>    <div class="SelectMenu right-0">
+      <div class="SelectMenu-modal width-full">
+        <div class="SelectMenu-list SelectMenu-list--borderless py-2">
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/tombeesley/PSYC121_2021-22/edit/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IqWYE4maBOpuxIthztDvvA3Z7tkOp5baVwV31SJ8o6ISIAu0OK8MSV9hSlBJ8rb4VP7IrLZ7ia5fABtUUEDYRw" autocomplete="off" />
+              <button disabled="disabled" title="You must be on a branch to make or propose changes to this file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
+              <div class="color-fg-muted">E</div>
+</button></form>
+            <a aria-label="Open this file in github.dev" data-test-selector="github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:423404244,&quot;actor_id&quot;:16871255,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
+              <div class="mr-5 no-wrap">Open in github.dev</div>
+              <div class="color-fg-muted">.</div>
+</a>
+              <button aria-label="You must be on a branch to open this file in GitHub Desktop" data-platforms="windows,mac" data-test-selector="github-desktop-disabled-button" disabled="disabled" type="submit" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform btn-invisible btn text-normal">    Open in GitHub Desktop
+</button>        </div>
+      </div>
+    </div>
+  </details>
+</div>
+
+
+        
+<div data-test-selector="remote-clipboard-copy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/tombeesley/PSYC121_2021-22/raw/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R" data-action="click:remote-clipboard-copy#remoteCopy">
+  
+
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="a63461ffb86a0ef463bee94aa26e105361f1973ef7098d7adead71b2e0efd7b9" aria-label="Copy raw contents">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
+    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
+</svg>
+</span></span>
+  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">      <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+</span>
+  <span data-target="remote-clipboard-copy.success" hidden="hidden">      <span class="tooltipped tooltipped-nw" aria-label="Copied!">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+      </span>
+</span>
+  <span data-target="remote-clipboard-copy.error" hidden="hidden">      <span class="tooltipped tooltipped-nw" aria-label="Something went wrong. Try again.">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+      </span>
+</span>
+</remote-clipboard-copy></div>
+
+
+          <button class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw" disabled
+            aria-label="You must be on a branch to make or propose changes to this file" type="button">
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
     <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
 </svg>
-          </a>
+          </button>
     </div>
   </div>
 
@@ -2569,10 +2630,41 @@
             <li>
             </li>
           <li>
-            <a class="dropdown-item" href="/tombeesley/PSYC121_2021-22/raw/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip">
-              Download
+            <a class="dropdown-item" href="/tombeesley/PSYC121_2021-22/raw/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R">
+              View raw
             </a>
           </li>
+            <li>
+              <remote-clipboard-copy class="dropdown-item" data-src="/tombeesley/PSYC121_2021-22/raw/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R" data-action="click:remote-clipboard-copy#remoteCopy">
+  
+
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:423404244,&quot;originating_url&quot;:&quot;https://github.com/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R&quot;,&quot;user_id&quot;:16871255}}" data-hydro-click-hmac="a63461ffb86a0ef463bee94aa26e105361f1973ef7098d7adead71b2e0efd7b9">
+                    Copy raw contents
+</span></span>
+  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
+                  <span class="d-inline-block position-relative" style="top: 3px">
+                    <svg aria-label="fetching contents…" style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+                  </span>
+</span>
+  <span data-target="remote-clipboard-copy.success" hidden="hidden">                  Copy raw contents
+                  <svg aria-label="Copied!" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+</span>
+  <span data-target="remote-clipboard-copy.error" hidden="hidden">                  Copy raw contents
+                  <svg aria-label="Something went wrong. Try again." role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span>
+</remote-clipboard-copy>            </li>
+            <li>
+              <a class="dropdown-item" href="/tombeesley/PSYC121_2021-22/blame/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R">
+                View blame
+              </a>
+            </li>
 
         </ul>
       </details>
@@ -2581,11 +2673,256 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-r  gist-border-0">
 
-        <div class="text-center p-3" data-hpc>
-            <a href="/tombeesley/PSYC121_2021-22/blob/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/files/Week_2/Week_2.zip?raw=true">View raw</a>
-        </div>
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="R" data-tagsearch-path="docs/files/Week_6/Week_6_script_answers.R">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">library(<span class="pl-smi">tidyverse</span>) <span class="pl-c"><span class="pl-c">#</span> load the tidyverse functions</span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Week_6_Task_2</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> this is a command to read in the data - </span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> note that this is (pretty much) the same as using the &quot;Import Dataset&quot; button</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">data_w6</span> <span class="pl-k">&lt;-</span> read_csv(<span class="pl-s"><span class="pl-pds">&quot;</span>data_phone.csv<span class="pl-pds">&quot;</span></span>) <span class="pl-c"><span class="pl-c">#</span> read in the data</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Note here that a line of code can be split across multiple lines</span></td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> It&#39;s good practice to break the lines in logical places (e.g., after a pipe)</span></td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> draw a graph Q1-7</span></td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">data_w6</span> %<span class="pl-k">&gt;</span>%</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">  ggplot() <span class="pl-k">+</span> </td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">  geom_point(aes(<span class="pl-v">y</span> <span class="pl-k">=</span> <span class="pl-smi">screen_time_actual</span>, <span class="pl-v">x</span> <span class="pl-k">=</span> <span class="pl-smi">screen_time_estimate</span>), <span class="pl-v">colour</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>red<span class="pl-pds">&quot;</span></span>) <span class="pl-c"><span class="pl-c">#</span> this is the line of code you eventually need to edit</span></td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> draw a graph Q8</span></td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">data_w6</span> %<span class="pl-k">&gt;</span>%</td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">  ggplot() <span class="pl-k">+</span> </td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">  geom_point(aes(<span class="pl-v">y</span> <span class="pl-k">=</span> <span class="pl-smi">screen_time_actual</span>, </td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">                 <span class="pl-v">x</span> <span class="pl-k">=</span> <span class="pl-smi">screen_time_estimate</span>, </td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">                 <span class="pl-v">colour</span> <span class="pl-k">=</span> <span class="pl-smi">phone_type</span>)) <span class="pl-c"><span class="pl-c">#</span> answer to Q8</span></td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> draw a graph Q9</span></td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">data_w6</span> %<span class="pl-k">&gt;</span>%</td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">  ggplot() <span class="pl-k">+</span> </td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">  geom_jitter(aes(<span class="pl-v">y</span> <span class="pl-k">=</span> <span class="pl-smi">screen_time_actual</span>, </td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">                 <span class="pl-v">x</span> <span class="pl-k">=</span> <span class="pl-smi">screen_time_estimate</span>, </td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">                 <span class="pl-v">colour</span> <span class="pl-k">=</span> <span class="pl-smi">phone_type</span>)) <span class="pl-c"><span class="pl-c">#</span> answer to Q8</span></td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Week_6_Task_3 - Do people underestimate or overestimate their phone time use?</span></td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> create a new column (mutate) to reflect the difference</span></td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">data_phone_diff</span> <span class="pl-k">&lt;-</span> <span class="pl-c"><span class="pl-c">#</span> note: assigning the output to a new object (data_phone_diff)</span></td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">  <span class="pl-smi">data_w6</span> %<span class="pl-k">&gt;</span>%</td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">  mutate(<span class="pl-v">est_diff</span> <span class="pl-k">=</span> <span class="pl-smi">screen_time_actual</span> <span class="pl-k">-</span> <span class="pl-smi">screen_time_estimate</span>)</td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> remove the 0s and count how many positives and negatives</span></td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">data_phone_diff</span> %<span class="pl-k">&gt;</span>%</td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">  filter(<span class="pl-smi">est_diff</span> <span class="pl-k">!=</span> <span class="pl-c1">0</span>) %<span class="pl-k">&gt;</span>% <span class="pl-c"><span class="pl-c">#</span> remove the 0s</span></td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">  count(<span class="pl-smi">est_diff</span> <span class="pl-k">&gt;</span> <span class="pl-c1">0</span>) <span class="pl-c"><span class="pl-c">#</span> count how many positive and negatives</span></td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> conduct a binomial test to see whether people underestimated or overestimated phone usage</span></td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">binom.test(<span class="pl-c1">61</span>,<span class="pl-c1">99</span>) <span class="pl-c"><span class="pl-c">#</span> they can also use (38, 99) to get the same result (probabilities are symmetrical)</span></td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/tombeesley/PSYC121_2021-22/blame/ff15dfed06b8433583dee0cf6a6d6d4dc47cdad4/docs/files/Week_6/Week_6_script_answers.R">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/tombeesley/PSYC121_2021-22/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
     </div>
 
     </div>
