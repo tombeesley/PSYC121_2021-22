@@ -58,7 +58,7 @@ The other variables relate to social media use. We have the *instagram_followers
 
 ## RStudio TASK 3: Power
 
-
+14. We saw in last week's lab tasks that there was a significant effect in our Stroop task data: participants were faster to say the colour names of the compatible list compared to the incompatible list (there were significant differences with the control list too). We 
 
 
 
